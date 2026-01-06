@@ -88,6 +88,14 @@ npm run dev
 **"I see login errors"**
 *   Make sure you filled out the `.env.local` file correctly with valid keys.
 
+*   ## 📞 Contact & Support
+- **Author**: Prem759‑0
+- **GitHub**: https://github.com/Prem759-0
+- For questions, open an issue in the repository or reach out via the GitHub Discussions page.
+# Open an issue on the GitHub repository for any questions.
+-Email - a70064182@gmail.com
+-My WhatsApp Phone no - 9619111051
+
 ---
 *Created with ❤️ by Prem Gaikwad*
 
