@@ -31,7 +31,7 @@ export default function RootLayout({
             signUpFallbackRedirectUrl="/dashboard"
         >
              <html lang="en" suppressHydrationWarning>
-                    <head>
+                
                 <head>
     <Script
         id="microsoft-clarity"
